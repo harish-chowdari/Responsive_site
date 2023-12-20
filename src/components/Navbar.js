@@ -1,4 +1,4 @@
-import logo from "./images/react-icon-small.png"
+import logo from "../images/react-icon-small.png"
 
 export default function Navbar() {
     return (

@@ -1,13 +1,13 @@
 import React from "react"
-import Main from "./Main"
-import Navbar from "./Navbar"
+import Navbar from "./components/Navbar"
+import Main from "./components/Main"
 import "./App.css"
 
 
 export default function App() {
   return (
     <div>
-      <Navbar/>
+      <Navbar />
       <Main />
     </div>
   )
